@@ -6,7 +6,7 @@
 
 [ToyRenderer](/sample_page)
 <br>
-<img src="images/scene_bunny.jpg?raw=true"/>
+<img src="images/scene_kitten_phong.jpg?raw=true"/>
 
 ---
 [ARCBALL](/pdf/sample_presentation.pdf)
