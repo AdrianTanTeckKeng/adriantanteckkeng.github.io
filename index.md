@@ -5,7 +5,7 @@
 ### Graphics assignments
 
 [ToyRenderer](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/scene_bunny.jpg?raw=true"/>
 
 ---
 [ARCBALL](/pdf/sample_presentation.pdf)
