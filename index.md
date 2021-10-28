@@ -18,7 +18,7 @@
 
 ### Research
 
-- [QITE - Quantum imaginary time evolution](https://github.com/mariomotta/QITE) Featured on [Nature!](https://www.nature.com/articles/s41567-019-0709-z)!
+- [QITE - Quantum imaginary time evolution](https://github.com/mariomotta/QITE) Featured on [Nature!](https://www.nature.com/articles/s41567-019-0709-z)
 
 
 ---
