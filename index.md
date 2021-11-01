@@ -4,13 +4,13 @@
 
 ### Graphics assignments
 
-[ToyRenderer](/sample_page)
+[ToyRenderer](https://github.com/AdrianTanTeckKeng/ToyRenderer)
 <br>
 <img src="images/scene_kitten_Phong.jpg?raw=true"/> 
 <img src="images/scene_kitten_Phong.jpg?raw=true"/>
 
 ---
-[ARCBALL](/pdf/sample_presentation.pdf)
+[ARCBALL](https://github.com/AdrianTanTeckKeng/ARCBALL)
 <br>
 <img src="images/moving_bunny.gif?raw=true"/>
 
