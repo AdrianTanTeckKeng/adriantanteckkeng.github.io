@@ -7,7 +7,7 @@
 [ToyRenderer](https://github.com/AdrianTanTeckKeng/ToyRenderer)
 <br>
 <img src="images/scene_kitten_Phong.jpg?raw=true"/> 
-<img src="images/scene_kitten_Phong.jpg?raw=true"/>
+<img src="images/fourCubes_Gouraud.jpg?raw=true"/>
 
 ---
 [ARCBALL](https://github.com/AdrianTanTeckKeng/ARCBALL)
