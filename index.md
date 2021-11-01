@@ -6,11 +6,15 @@
 
 [ToyRenderer](https://github.com/AdrianTanTeckKeng/ToyRenderer)
 <br>
+A scene renderer written in C++ for a class
+<br>
 <img src="images/scene_kitten_Phong.jpg?raw=true"/> 
 <img src="images/fourCubes_Gouraud.jpg?raw=true"/>
 
 ---
 [ARCBALL](https://github.com/AdrianTanTeckKeng/ARCBALL)
+<br>
+A mechanism to rotate a scene with a mouse
 <br>
 <img src="images/moving_bunny.gif?raw=true"/>
 
