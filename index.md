@@ -23,7 +23,7 @@
 - [QITE - Quantum imaginary time evolution](https://github.com/mariomotta/QITE) Featured on [Nature!](https://www.nature.com/articles/s41567-019-0709-z)
 <br>
 <br>
-<img src="images/NaturePhysics?raw=true"/>
+<img src="images/NaturePhysics.png?raw=true"/>
 
 ---
 
